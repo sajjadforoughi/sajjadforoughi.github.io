@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : 
+  avatar           : "74dba19d-3988-44a7-8618-bf102037640f.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/citations?user=gL5Izj8AAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=gL5Izj8AAAAJ"
   email            :
-  researchgate     :  "http://www.researchgate.net/profile/Sajjad-Foroughi"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Sajjad-Foroughi"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ForoughiSajjad"
   google_plus      :
   keybase          :
   instagram        :
