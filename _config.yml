@@ -86,9 +86,9 @@ author:
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=gL5Izj8AAAAJ"
+  googlescholar    : "http://scholar.google.com/citations?user=gL5Izj8AAAAJ"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Sajjad-Foroughi"# example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "http://www.researchgate.net/profile/Sajjad-Foroughi"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
