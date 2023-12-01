@@ -18,7 +18,10 @@ With more than 5 years of dedicated research experience, my expertise lies in mo
 <!-- Check out ccsnet.ai, a machine learning-based web application for real-time CO2 -->
 <!-- plume migration and pressure buildup prediction. This web application provides 1,000 predictions per day to researchers, students, regulators, and industrial users across the world.-->
 
+
+<!--
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 --- 
+-->
