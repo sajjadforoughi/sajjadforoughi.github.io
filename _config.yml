@@ -86,9 +86,12 @@ author:
   location         : "London, UK"
   employer         :
   pubmed           : 
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Sajjad-Foroughi"
   googlescholar    : "https://scholar.google.com/citations?user=gL5Izj8AAAAJ"
+  researchgate     :  "https://www.researchgate.net/profile/Sajjad-Foroughi"
+  linkedin         : "sajjad-foroughi-b9982859"
+  orcid            : "https://orcid.org/0000-0002-8885-550X"
+  github           : "ForoughiSajjad"
+  email            :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +99,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ForoughiSajjad"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sajjad-foroughi-b9982859"
-  orcid            : "https://orcid.org/0000-0002-8885-550X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
