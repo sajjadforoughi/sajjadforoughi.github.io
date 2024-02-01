@@ -11,9 +11,9 @@ title                    : "Sajjad Foroughi"
 title_separator          : "-"
 name                     : &name "Sajjad Foroughi"
 description              : &description "personal description"
-url                      : "https://ForoughiSajjad.github.io"
+url                      : "https://sajjadforoughi.github.io"
 baseurl                  : "" 
-repository               : "ForoughiSajjad/ForoughiSajjad.github.io"
+repository               : "sajjadforoughi/sajjadforoughi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
