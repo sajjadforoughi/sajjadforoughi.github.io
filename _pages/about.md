@@ -20,7 +20,10 @@ As the energy landscape transitions from fossil fuels to renewables, my expertis
 
 ### **Background and Future Research Direction**
 
-<img src="../images/LinkedinPost.png" alt="Multiscale Pore Network" width="500"/>
+<p align="center">
+  <img src="../images/LinkedinPost.png" alt="Multiscale Pore Network" width="500"/>
+</p>
+
 
 Heterogeneous rocks exhibit a wide variation in pore sizes, ranging from less than 0.1 microns to over 100 microns. Due to this diversity, capturing the entire pore space using **micro-CT imaging techniques** is challenging. However, the application of differential imaging enables the quantification of sub-resolution porosity and the generation of detailed porosity maps. In our preprint paper, titled *"Incorporation of Sub-Resolution Porosity into Two-Phase Flow Models with a Multiscale Pore Network,"* I have developed a comprehensive workflow to integrate this sub-resolution porosity into **multiscale pore network models**. This methodology significantly enhances the accuracy of our models by accounting for the finer, unresolved details of the pore structure. The resulting **3D image-based, multi-scale pore network model** has undergone rigorous validation and has proven effective in simulating drainage and imbibition processes in complex and heterogeneous rock formations.
 
