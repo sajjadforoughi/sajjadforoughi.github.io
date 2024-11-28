@@ -25,7 +25,7 @@ As the energy landscape transitions from fossil fuels to renewables, my expertis
 **Porous materials** are fundamental to these devices, offering extensive surface areas for critical reactions. Understanding the physics within these complex porous structures is essential for optimizing their design and performance in energy storage and conversion systems. My work focuses on addressing this need, ensuring that these materials are effectively leveraged to meet the demands of a renewable energy future.
 
 ### **Background and Future Research Direction**
-
+<br>  
 <p align="center">
   <img src="../images/LinkedinPost.png" alt="Multiscale Pore Network" width="500"/>
 </p>
