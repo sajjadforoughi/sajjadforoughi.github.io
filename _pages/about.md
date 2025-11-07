@@ -16,7 +16,7 @@ Thanks for stopping by my website.
 <br>  
 
 
-I am currently a Senior Postdoctoral Researcher working with Professor **[Martin J. Blunt](https://www.imperial.ac.uk/people/m.blunt)** and Dr. **[Branko Bijeljic](https://www.imperial.ac.uk/people/b.bijeljic)**  in the Earth Science and Engineering Department at Imperial College London. My research interest lies in **computational methods for earth sciences**.
+I’m a Senior Postdoctoral Researcher in the Department of Earth Science and Engineering at Imperial College London, focusing on **computational methods for earth sciences**.
 
 With over ten years of experience in modeling and simulating **multiphase flow in porous media** at both **pore and continuum scales**. My research addresses the challenges of multiphase flow in porous materials, which are critical for applications such as **electrochemical devices**, **hydrogen storage**, geothermal energy, CCS, groundwater management, preserving natural construction materials, and advancing process design.
 
